@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  account:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-19T17:20:34.001723+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 2daf5624963b3d2683bb47833635f6a88bc644a4d0bc2a6d4c51767e449fd5c3
+    name: account
+    type: application
+    urls:
+    - https://rhzx3519.github.io/helm-charts/account-0.1.0.tgz
+    version: 0.1.0
+  trade:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-19T17:20:34.003198+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 91b314f3f06f4b13b36ee1f1d84bd6f8382f5135e5ca10281b3871f15aa52f5a
+    name: trade
+    type: application
+    urls:
+    - https://rhzx3519.github.io/helm-charts/trade-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-19T17:20:34.000294+08:00"
